@@ -1,0 +1,12 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Widget.RemoteIr.AppWidget.Container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/Theme.RemoteIr.AppWidgetContainer">
+
+    <Button
+        android:id="@+id/widgetButtonOff"
+        android:layout_width="wrap_content"
+        android:layout_height="94dp"
+        android:text="@string/off" />
+</RelativeLayout>

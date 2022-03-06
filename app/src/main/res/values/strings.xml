@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">RemoteIr</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_transform">Transform</string>
+    <string name="menu_reflow">Reflow</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="lightUp">Up</string>
+    <string name="lightDown">Down</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="smooth">SMOOTH</string>
+    <string name="strobe">STROBE</string>
+    <string name="flash">FLASH</string>
+    <string name="cold">COLD</string>
+    <string name="warm">wARM</string>
+    <string name="b5">B5</string>
+    <string name="b4">B4</string>
+    <string name="b3">B3</string>
+    <string name="b2">B2</string>
+    <string name="b1">B1</string>
+    <string name="g1">G1</string>
+    <string name="g2">G2</string>
+    <string name="g4">G4</string>
+    <string name="g3">G3</string>
+    <string name="g5">G5</string>
+    <string name="r5">R5</string>
+    <string name="r4">R4</string>
+    <string name="r3">R3</string>
+    <string name="r2">R2</string>
+    <string name="r1">R1</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
